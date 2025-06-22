@@ -1,5 +1,5 @@
 import express from 'express'
-import auth    from '../middleware/auth.js'
+import auth    from '../middleware/Auth.js'
 import User    from '../models/User.js'
 import upload  from '../middleware/upload.js'
 
