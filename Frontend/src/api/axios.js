@@ -1,4 +1,4 @@
 import axios from 'axios';
 export default axios.create({
-  baseURL: 'https://clapcloud.onrender.com',
+  baseURL: 'https://clapcloud.onrender.com/api',
 });
